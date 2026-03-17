@@ -1,4 +1,4 @@
-#NCRMP Time Series Data — Instrument Data Cleaning & Visualization
+# NCRMP Time Series Data — Instrument Data Cleaning & Visualization
 
 A data pipeline and report built for the project manager of the National Coral Reef Monitoring Program (NCRMP) at NOAA. Raw instrumentation data from SeaFETs, tilt meters, EcoPars, and CTDs were ingested, cleaned, and organized into an interactive HTML report for easy scientific review. Delivered to NOAA project managers to support reef health monitoring across U.S. territories.
 
